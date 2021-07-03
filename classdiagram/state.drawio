@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T13:38:22.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yG5sv109TkRC6NbbyS_B" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T13:59:26.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Mw3gSYQ0FqZjxYBXWOIk" version="14.8.2" type="github">
   <diagram id="Ukr2MV5d9GE14xmqiCiJ" name="Page-1">
     <mxGraphModel dx="1038" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint x="495" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncAsSNo7nqLW7Y2UE0uZ-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;KinderStateContext&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;KinderStateContext&lt;/span&gt;(&lt;b style=&quot;text-align: center&quot;&gt;KinderState&lt;/b&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ switchStateOrder(void): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="ncAsSNo7nqLW7Y2UE0uZ-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;KinderStateContext&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;KinderStateContext&lt;/span&gt;(&lt;b style=&quot;text-align: center&quot;&gt;KinderState&lt;/b&gt;)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ switchKinderState(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="120" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ncAsSNo7nqLW7Y2UE0uZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncAsSNo7nqLW7Y2UE0uZ-22">
