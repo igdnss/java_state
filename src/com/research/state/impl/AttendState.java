@@ -2,6 +2,10 @@ package com.research.state.impl;
 
 import com.research.state.KinderState;
 
+/**
+ * ÉÏ¿Î×´Ì¬ÒµÎñÂß¼­
+ *
+ */
 public class AttendState implements KinderState {
 
 	@Override

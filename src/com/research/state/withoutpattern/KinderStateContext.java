@@ -1,5 +1,8 @@
 package com.research.state.withoutpattern;
 
+/**
+ *通过if分支去处理每种状态的业务逻辑
+ */
 public class KinderStateContext {
 	KinderState state;
 

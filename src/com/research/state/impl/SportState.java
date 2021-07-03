@@ -2,6 +2,9 @@ package com.research.state.impl;
 
 import com.research.state.KinderState;
 
+/**
+ *运动状态业务逻辑
+ */
 public class SportState implements KinderState {
 
 	@Override

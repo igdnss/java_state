@@ -2,6 +2,10 @@ package com.research.state.impl;
 
 import com.research.state.KinderState;
 
+/**
+ * Îç²Í×´Ì¬ÒµÎñÂß¼­
+ *
+ */
 public class LunchState implements KinderState {
 
 	@Override
